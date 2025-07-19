@@ -1,5 +1,5 @@
 # Arduino 6 Servo Motors Humanoid Robot Control
-
+![](https://github.com/itsabalkhail/HexaWalk-Robot/blob/main/Screenshot%202025-07-19%20195308.png?raw=true)
 ## 📋 Project Overview
 
 This project controls 6 servo motors connected to an Arduino UNO to simulate humanoid robot movements. The system performs two main functions:
