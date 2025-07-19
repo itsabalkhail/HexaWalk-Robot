@@ -178,21 +178,6 @@ To contribute to this project:
 4. Test thoroughly
 5. Submit a pull request
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 👥 Credits
-
-Developed for educational and robotics learning purposes.
-
-## 📞 Support
-
-For questions or issues:
-- Check the troubleshooting section above
-- Review Arduino documentation
-- Test with simple servo examples first
-
 ---
 
 **Note**: This code is optimized for Tinkercad simulation but works equally well on physical Arduino hardware.
