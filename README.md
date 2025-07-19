@@ -169,15 +169,4 @@ Potential improvements and features to add:
 ### Libraries Used:
 - `Servo.h`: Arduino servo control library
 
-## 🤝 Contributing
-
-To contribute to this project:
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
----
-
 **Note**: This code is optimized for Tinkercad simulation but works equally well on physical Arduino hardware.
